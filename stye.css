@@ -1,0 +1,266 @@
+body {
+  font-family: poppins;
+}
+.nav-link .active {
+  color: #362fd9;
+}
+.navbar-brand {
+  font-size: 30;
+}
+.smk {
+  font-size: 30px;
+  color: #362fd9;
+  font-weight: 900;
+}
+.sb {
+  font-size: 30px;
+  color: BLACK;
+  font-weight: 900;
+}
+.navbar-brand img {
+  height: 38px;
+  margin-bottom: 10px;
+}
+.navbar {
+  margin-top: 20px;
+  margin-right: 100px;
+}
+.btn-contact {
+  border-radius: 30px;
+  background-color: #362fd9;
+  color: white;
+  width: 134px;
+  height: 54px;
+  margin-left: 10px;
+  border: none;
+}
+.hero-title {
+  font-weight: 900;
+  margin-top: 80px;
+  font-size: 72px;
+  line-height: 123%;
+}
+.subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  color: #747474;
+  width: 556px;
+  margin-top: 10px;
+  line-height: 165%;
+}
+.hero-image {
+  margin-top: 40px;
+}
+.btn-primary {
+  background-color: #362fd9;
+  width: 247px;
+  height: 68px;
+  color: white;
+  font-weight: 700;
+  font-size: 22px;
+  border: none;
+  border-radius: 50px;
+  margin-right: 10px;
+}
+.btn-secondary {
+  width: 186px;
+  height: 68px;
+  border-color: #362fd9;
+  border: solid;
+  border-radius: 50px;
+  background-color: white;
+  color: #362fd9;
+  font-weight: 700;
+  font-size: 22px;
+}
+.btn-container {
+  margin-top: 40px;
+}
+.social-media {
+  font-weight: 500;
+  margin-top: 50px;
+  color: black;
+  font-size: 20px;
+}
+.sm-icon a {
+  text-decoration: none;
+  padding: 2px;
+}
+.title-about h2 {
+  line-height: 123%;
+  color: black;
+  font-size: 40px;
+  font-weight: 800;
+}
+.title-about span {
+  color: #362fd9;
+}
+.title-about {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 100px;
+}
+.subtitle-about p {
+  font-size: 18px;
+  line-height: 123%;
+  font-weight: 500;
+  color: #575757;
+}
+.subtitle-about {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+}
+.card-container {
+  width: 239px;
+  height: 284px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 10px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);
+}
+.card-container img {
+  width: 60px;
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+.card-container h4 {
+  font-size: 20px;
+  font-weight: 700;
+  color: #2c2c2c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.card-container p {
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 166%;
+  text-align: center;
+  margin-top: 25px;
+}
+
+.card-body {
+  flex-direction: column;
+  display: flex;
+  justify-content: center;
+}
+.profil-title h2 {
+  text-align: center;
+  line-height: 123%;
+  color: black;
+  font-size: 40px;
+  font-weight: 800;
+}
+.profil-title {
+  margin-top: 100px;
+}
+.profil-title span {
+  color: #362fd9;
+}
+.profil-img {
+  margin-top: 50px;
+}
+.profil-text {
+  margin-top: 50px;
+}
+.profil-text h3 {
+  font-size: 32;
+  font-weight: 700;
+  line-height: 123%;
+  margin-bottom: 50px;
+}
+.profil-text p {
+  font-size: 18px;
+  font-weight: 500;
+  line-height: 165%;
+  color: #747474;
+  width: 568px;
+}
+.button-profil {
+  width: 212;
+  height: 62px;
+  border-radius: 50px;
+  background-color: #362fd9;
+  border: none;
+  color: white;
+}
+.jurusan-card {
+  height: 219px;
+  width: 330px;
+  background-color: #362fd9;
+  border-radius: 10px;
+}
+.jurusan-img {
+  border-radius: 3px;
+  width: 56px;
+  height: 43px;
+  background-color: #fff;
+}
+.jurusan-subtitle h4 {
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 166%;
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+.jurusan-subtitle a {
+  font-weight: 500;
+  color: #dbdbdb;
+}
+.jurusan-title {
+  margin-top: 100px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.jurusan-title h2 {
+  text-align: center;
+  line-height: 123%;
+  color: black;
+  font-size: 40px;
+  font-weight: 800;
+}
+.jurusan-title span {
+  color: #362fd9;
+}.jurusan-title p{
+  font-size: 18px;
+  line-height: 123%;
+  font-weight: 500;
+  color: #575757;
+  text-align: center;
+  margin-top: 20px;
+}
+.ekskul-card{
+  width: 285px;
+  height: 265px;
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  padding: 15px;
+}
+.ekskul-card img{
+  width: 54px;
+  margin-top: 10px;
+}
+.ekskul-title h4{
+  font-size: 24;
+  font-weight: 700;
+  line-height: 166%;
+  color: #2e2e2e;
+  width: 188px;
+  margin-top: 10px;
+}
+.ekskul-card p{
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 166%;
+  color: #999999;
+}
